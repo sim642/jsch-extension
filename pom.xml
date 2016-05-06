@@ -9,7 +9,7 @@
 
   <groupId>com.pastdev</groupId>
   <artifactId>jsch-extension</artifactId>
-  <version>0.1.7-SNAPSHOT</version>
+  <version>0.1.7-1</version>
   <packaging>jar</packaging>
 
   <name>jsch-extension</name>
