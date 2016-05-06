@@ -197,6 +197,7 @@ public class DefaultSessionFactory implements SessionFactory {
                 DefaultSessionFactory sessionFactory = new DefaultSessionFactory( jsch, username, hostname, port, proxy );
                 sessionFactory.config = config;
                 sessionFactory.password = password;
+                sessionFactory.userInfo = userInfo;
                 return sessionFactory;
             }
         };
